@@ -121,6 +121,7 @@ Happy Coding! 🚀
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/ydvkundan2005/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ydvkundan2005/DSA/tree/master/0204-count-primes) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ydvkundan2005/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
 |  |
 | ------- |
@@ -129,4 +130,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ydvkundan2005/DSA/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ydvkundan2005/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
