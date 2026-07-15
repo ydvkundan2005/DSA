@@ -109,3 +109,23 @@ This is primarily a personal learning repository, but suggestions, improvements,
 > "Every Accepted solution was once a Wrong Answer."
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ydvkundan2005/DSA/tree/master/0204-count-primes) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ydvkundan2005/DSA/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ydvkundan2005/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ydvkundan2005/DSA/tree/master/0204-count-primes) |
+<!---LeetCode Topics End-->
