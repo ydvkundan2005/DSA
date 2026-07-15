@@ -119,6 +119,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/ydvkundan2005/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ydvkundan2005/DSA/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
